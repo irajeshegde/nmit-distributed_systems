@@ -7,7 +7,6 @@
 <li>Rashmitha S. 1NT17IS138</li>
 
 <h4>Step1  : Specify the protocol for client server communication</h4>
-<br>
 An interface description language (IDL) to let various platforms call the RPC. The IDL files can then be used to generate code to interface between the client and servers. So, in IDL file, we define the program structure like below. Save this IDL file with .x extension.
 <br>
 Refer <b>conversion.x</b> file
